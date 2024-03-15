@@ -12,7 +12,7 @@
 
 ### Programming Languages and Technologies
 
-<div style="display: flex; flex: row; flex-wrap: wrap; width: 40%; gap: 1rem;">
+<div style="display: flex; flex: row; flex-wrap: wrap; width: 60%; gap: 1rem;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" 
 title="Python" alt="Python" width="60" height="60"/>
 
@@ -21,7 +21,7 @@ title="Java" alt="Java" width="60" height="60"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original-wordmark.svg" title="Svelte" alt="Svelte" width="80" height="80" style="margin-top: -1rem; "/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original-wordmark.svg" title="Svelte" alt="Svelte" width="80" height="80" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"  
 title="CSS3" alt="CSS" width="60" height="60"/>
