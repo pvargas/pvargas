@@ -12,7 +12,7 @@
 
 ### Programming Languages and Technologies
 
-<div style="display: flex; flex: row; flex-wrap: wrap; width: 40%; gap: 1rem;">
+<div style="display: flex; flex: row; flex-wrap: wrap; width: 30%; gap: 1rem;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>
@@ -42,7 +42,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pvargas&theme=vue-dark&border_radius=5&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvargas&layout=donut-vertical&theme=vue-dark&hide=html,css,vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvargas&layout=donut-vertical&theme=vue-dark&hide=vue,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pvargas&hide_rank=true&hide=stars&include_all_commits=true&show=reviews&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
